@@ -11,9 +11,9 @@
   },
   "flappy": {
       "x": 60,
-      "width": 46,
-      "height": 64,
-      "scale": 1,
+      "width": 32,
+      "height": 32,
+      "scale": 2,
       "gravity": 1200,
       "flap": {
         "velocity": -420,
@@ -44,7 +44,7 @@
     "height": 500,
     "space": 180,
     "offset": 120,
-    "speed": 120,
+    "speed": 100,
     "interval": 2500,
     "color": "#586e75"
   },
@@ -66,7 +66,7 @@
     } 
   },
   "gameover": {
-    "text": "Game\nOver",
+    "text": "Much\nFail\nWow.",
     "offset": -150,
     "style": {
       "font": "100px sans-serif", 
